@@ -5,7 +5,7 @@ Adding products to inventry.ipynb = Contains codes for adding products in Invent
 Purchase products.ipynb = Contains code for purchasing products by user
 record.json = Contains record of Inventory
 sales.json = Contains record of Sales
-##Features
+## Features
 1.Add new items in inventory
 2.User can make purchase
 3.We can add product quantity in existing quantity
